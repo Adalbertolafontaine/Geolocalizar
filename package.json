@@ -1,0 +1,19 @@
+{
+  "devDependencies": {
+    "@types/leaflet": "^1.9.4",
+    "typescript": "^4.9.3",
+    "vite": "^4.2.0"
+  },
+  "name": "geolocalizar",
+  "private": true,
+  "scripts": {
+    "build": "tsc && vite build",
+    "dev": "vite",
+    "preview": "vite preview"
+  },
+  "type": "module",
+  "version": "0.0.0",
+  "dependencies": {
+    "leaflet": "^1.9.4"
+  }
+}
